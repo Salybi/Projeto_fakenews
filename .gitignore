@@ -1,0 +1,16 @@
+# Ambiente virtual
+.venv/
+
+# Cache e bytecode Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Saídas e artefatos gerados
+modelos/
+resultados/
+
+# Arquivos auxiliares locais
+*.log
+*.docx
